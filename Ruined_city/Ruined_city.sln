@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruined_city", "Ruined_city.csproj", "{78F4FA11-1191-5182-3E56-C4E93DD78C1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruined_city.Plugins", "Ruined_city.Plugins.csproj", "{5990B292-0969-2DA2-A8B1-376B7071F367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruined_city.Editor.Plugins", "Ruined_city.Editor.Plugins.csproj", "{337CECCB-2E51-3FFD-4272-19CF5F59B4B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruined_city.Editor", "Ruined_city.Editor.csproj", "{16126C91-310E-54B5-8FFA-D8332F781C95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F4FA11-1191-5182-3E56-C4E93DD78C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F4FA11-1191-5182-3E56-C4E93DD78C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F4FA11-1191-5182-3E56-C4E93DD78C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F4FA11-1191-5182-3E56-C4E93DD78C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5990B292-0969-2DA2-A8B1-376B7071F367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5990B292-0969-2DA2-A8B1-376B7071F367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5990B292-0969-2DA2-A8B1-376B7071F367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5990B292-0969-2DA2-A8B1-376B7071F367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{337CECCB-2E51-3FFD-4272-19CF5F59B4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337CECCB-2E51-3FFD-4272-19CF5F59B4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337CECCB-2E51-3FFD-4272-19CF5F59B4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337CECCB-2E51-3FFD-4272-19CF5F59B4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16126C91-310E-54B5-8FFA-D8332F781C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16126C91-310E-54B5-8FFA-D8332F781C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16126C91-310E-54B5-8FFA-D8332F781C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16126C91-310E-54B5-8FFA-D8332F781C95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
